@@ -174,3 +174,22 @@ body {
     font-size: 12px;
     color: #aaaaaa;
 }
+
+.top-background {
+    padding: 70px;
+    
+    background: url(../images/background.jpg) no-repeat;
+}
+
+.welcome-text {
+    padding-top: 10px;
+    border: 0;
+    border-radius: 0;
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 0;
+    font-size: 38px;
+    font-family: sans-serif, "Roboto Condensed";
+    color: #ffffff;
+    text-shadow: 0 3px 6px rgb(0, 0, 0);
+}
